@@ -53,9 +53,9 @@
 - Since the public release, Materio has gained over 15K views with 3K Active Users in Just 3 Months.
 
 ## Have a feedback that I can improve on?
-- Create a Issue in the Materio git repository.\
-- Create a thread in Feedback forum in github discussions.\
-- Dierctly submit feedback in the Materio chat with #feedback.\
+- Create a Issue in the Materio git repository.
+- Create a thread in Feedback forum in github discussions.
+- Dierctly submit feedback in the Materio chat with #feedback.
 
 ## Important Links:
 [Materio's Proprietary Source-Available License](https://materioa.netlify.app/license) \
